@@ -45,12 +45,13 @@ margin-top:-60px;
 margin-left:4rem
 }
 .cv-title {
-margin-bottom:0;
-margin-left:calc(2% - 5px);
-/*line-height:190%*/
+  margin-bottom:0;
+  margin-left:calc(2% - 5px);
+  /*line-height:190%*/
 }
 .cv-title span {
-padding:1rem
+  padding:1rem;
+  color: #3c9cff;
 }
 .last-item{
 padding-top:80px;
