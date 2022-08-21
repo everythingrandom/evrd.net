@@ -8,6 +8,7 @@ max-width:100%
 h1,h2,h3,h4,h5,h6 {
 font-family:'Oswald',sans-serif;
 text-transform:uppercase
+color: #3c9cff /*#000*/;
 }
 .item {
 padding-top:100px;
@@ -16,7 +17,7 @@ position:relative
 }
 .item:before,.last-item:after {
 background:#fff;
-border:8px solid #000;
+border:8px solid #3c9cff /*#000*/;
 border-radius:50%;
 width:40px;
 height:40px;
@@ -29,7 +30,7 @@ left:calc(2% - 36px)
 }
 .vertical-line {
 width:8px;
-background-color:#000;
+background-color:#3c9cff /*#000*/;
 position:absolute;
 left:calc(2% - 5px);
 top:0;
