@@ -47,7 +47,7 @@ margin-left:4rem
 .cv-title {
 margin-bottom:0;
 margin-left:calc(2% - 5px);
-line-height:190%
+/*line-height:190%*/
 }
 .cv-title span {
 padding:1rem
@@ -58,15 +58,17 @@ height:70px;
 position:relative
 }
 
-input[type=text] {
+input[type=text], input[type=email] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
+  border-color: #111;
   box-sizing: border-box;
 }
 input[type=button], input[type=submit], input[type=reset] {
   background-color: #3c9cff;
   border: none;
+  width: 100%;
   color: white;
   padding: 16px 32px;
   text-decoration: none;
