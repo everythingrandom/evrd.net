@@ -84,7 +84,7 @@ input[type=button], input[type=submit], input[type=reset] {
   cursor: pointer;
 }
 
-lable .revue-form-footer {
+.revue-form-footer {
   color: #a3a2a2;
   text-align: center;
   font-size:12px;
