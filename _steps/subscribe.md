@@ -19,7 +19,7 @@ The best way to stay up to date with everyhinng EVRD. Read through the past upda
     <input class="revue-form-field" placeholder="Last name... (Optional)" type="text" name="member[last_name]" id="member_last_name">
   </div>
   <div class="revue-form-actions">
-    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+    <input type="submit" value="subscribe" name="member[subscribe]" id="member_submit">
   </div>
   <div class="revue-form-footer">by subscribing, you agree with revue’s <a target="_blank" href="https://www.getrevue.co/terms">terms of service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">privacy policy</a>.</div>
   </form>
