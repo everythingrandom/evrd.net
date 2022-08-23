@@ -83,3 +83,9 @@ input[type=button], input[type=submit], input[type=reset] {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.revue-form-footer {
+    color: #a3a2a2;
+    font-size:12px;
+    font-family:'Lato',sans-serif
+}
