@@ -1,32 +1,32 @@
 body {
-font-size:20px;
-font-family:'Lato',sans-serif
+  font-size:20px;
+  font-family:'Lato',sans-serif
 }
 img {
-max-width:100%
+  max-width:100%
 }
 h1,h2,h3,h4,h5,h6 {
-font-family:'Oswald',sans-serif;
-text-transform:lowercase;
-color: #3c9cff /*#000*/;
+  font-family:'Oswald',sans-serif;
+  text-transform:lowercase;
+  color: #3c9cff /*#000*/;
 }
 .item {
-padding-top:100px;
-min-height:150px;
-position:relative
+  padding-top:100px;
+  min-height:150px;
+  position:relative
 }
 .item:before,.last-item:after {
-background:#fff;
-border:8px solid #3c9cff /*#000*/;
-border-radius:50%;
-width:40px;
-height:40px;
-display:inline-block;
-content:"";
-margin-left:1rem;
-position:relative;
-z-index:1;
-left:calc(2% - 36px)
+  background:#f2f2f2;
+  border:8px solid #3c9cff /*#000*/;
+  border-radius:50%;
+  width:40px;
+  height:40px;
+  display:inline-block;
+  content:"";
+  margin-left:1rem;
+  position:relative;
+  z-index:1;
+  left:calc(2% - 36px)
 }
 .vertical-line {
 width:8px;
