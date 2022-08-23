@@ -2,7 +2,7 @@
 title: Follow
 date: 2022-08-20 03:00:00 -0700
 ---
-The best way to stay up to date with everyhinng EVRD is to subscribe to the newsletter. Read through the past updates [here](https://www.getrevue.co/profile/evrd). Also find EVRD on [Twitter](https://twitter.com/evrdnet).
+the best way to stay up to date with everyhinng EVRD is to subscribe to the newsletter. read through the past updates [here](https://www.getrevue.co/profile/evrd). also find EVRD on [twitter](https://twitter.com/evrdnet).
 
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/evrd/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
@@ -11,11 +11,11 @@ The best way to stay up to date with everyhinng EVRD is to subscribe to the news
     <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
   </div>
   <div class="revue-form-group">
-    <label for="member_first_name">first name <span class="optional">(Optional)</span></label>
+    <label for="member_first_name">first name <span class="optional">(optional)</span></label>
     <input class="revue-form-field" placeholder="First name... (Optional)" type="text" name="member[first_name]" id="member_first_name">
   </div>
   <div class="revue-form-group">
-    <label for="member_last_name">last name <span class="optional">(Optional)</span></label>
+    <label for="member_last_name">last name <span class="optional">(optional)</span></label>
     <input class="revue-form-field" placeholder="Last name... (Optional)" type="text" name="member[last_name]" id="member_last_name">
   </div>
   <div class="revue-form-actions">
