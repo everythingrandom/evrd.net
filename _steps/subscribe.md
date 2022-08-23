@@ -19,6 +19,6 @@ date: 2022-08-20 03:00:00 -0700
   <div class="revue-form-actions">
     <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
   </div>
-  <label class="revue-form-footer">by subscribing, you agree with revue’s <a target="_blank" href="https://www.getrevue.co/terms">terms of service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">privacy policy</a>.</label>
+  <div class="revue-form-footer">by subscribing, you agree with revue’s <a target="_blank" href="https://www.getrevue.co/terms">terms of service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">privacy policy</a>.</div>
   </form>
 </div>
