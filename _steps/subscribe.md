@@ -2,7 +2,7 @@
 title: Follow
 date: 2022-08-20 03:00:00 -0700
 ---
-The best way to stay up to date with everyhinng EVRD. Read through the past updates [here](https://www.getrevue.co/profile/evrd). Also find EVRD on [Twitter](https://twitter.com/evrdnet).
+The best way to stay up to date with everyhinng EVRD is to subscribe to the newsletter. Read through the past updates [here](https://www.getrevue.co/profile/evrd). Also find EVRD on [Twitter](https://twitter.com/evrdnet).
 
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/evrd/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
