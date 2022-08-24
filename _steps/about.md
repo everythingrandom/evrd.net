@@ -2,6 +2,6 @@
 title: About
 date: 2022-08-19 01:00:00 -0700
 ---
-Johann Sebastian Bach was a German composer and musician of the Baroque period. He enriched established German styles through his mastery of counterpoint, harmonic and motivic organisation, and his adaptation of rhythms, forms, and textures from abroad, particularly from Italy and France. Bach's compositions include the Brandenburg Concertos, the Goldberg Variations, the Mass in B minor, two Passions, and over three hundred cantatas of which approximately two hundred survive. His music is revered for its technical command, artistic beauty, and intellectual depth.
+EVRD has been through many iterations since its humble beginning in 2007. Different content, different authors, different platforms, but one contacts has remained; EVRD is a creative outlet. It is a playground for creativity. To code new things, to build new things, to share photography, graphic design, writing, code, and art. 
 
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)
+EVRD will continue to be a playground in its next form. 
