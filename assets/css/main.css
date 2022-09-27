@@ -56,7 +56,7 @@ margin-left:4rem
 }
 .cv-title span {
   padding:1rem;
-  color: #fff /*#3c9cff*/;
+  color: #111 /*#3c9cff*/;
   background-color: #fff /*#3c9cff*/ !important;
 }
 .last-item{
