@@ -5,7 +5,12 @@ body {
 img {
   max-width:100%
 }
-h1,h2,h3,h4,h5,h6 {
+h1 {
+  font-family:'Oswald',sans-serif;
+  text-transform:uppercase;
+  color: /* #3c9cff */ #111;
+}
+h2,h3,h4,h5,h6 {
   font-family:'Oswald',sans-serif;
   text-transform:uppercase;
   color: /* #3c9cff */ #fff;
